@@ -9,7 +9,7 @@ The purpose of this page is to provide a way for individulas to create a daily s
 * Javascript
 
 # Website
-
+https://nsmall94.github.io/Daily-Planner/
 
 ## Screenshot
 ![Daily-Planner screnshot](assets/images/screenshot.png)
