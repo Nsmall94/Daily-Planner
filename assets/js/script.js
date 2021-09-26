@@ -16,7 +16,7 @@ $(document).ready(function () {
         var newDiv = $("<div>");
         var newSpan = $("<span>");
         var newTextInput = $("<input>");
-        var newBtn = $("<button>");
+        var Btn = $("<button>");
 
 
       
@@ -34,8 +34,8 @@ $(document).ready(function () {
         newTextInput.attr("data", "data-input" + index);
         newTextInput.addClass("form-control")
         newTextInput.attr("data", "data-text" + index);
-        newDiv.append(newBtn);
-        newBtn.addClass("btn btn-outline-secondary");
+        newDiv.append(Btn);
+        Btn.addClass("btn btn-outline-secondary");
         
     });
 
